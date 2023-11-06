@@ -1,0 +1,6 @@
+/reposts
+.pytest_cache
+/tests/__pycache__
+/tests/my_function.py
+/ __pycache__/
+
