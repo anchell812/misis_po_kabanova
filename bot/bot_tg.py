@@ -29,7 +29,7 @@ import telebot
 import datetime
 # from misis_po_kabanova.tests.my_function import MyFunction
 
-bot = telebot.TeleBot('6540157313:AAFkm6NYUXqT8N_Nf72l-hg_mjfiKqU0ntI')
+bot = telebot.TeleBot('') # добавить
 # my_func = MyFunction.get_top_songs()
 
 

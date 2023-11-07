@@ -6,7 +6,7 @@ from watchdog.events import FileSystemEventHandler
 from telegram import Bot
 
 
-bot_token = "6540157313:AAFkm6NYUXqT8N_Nf72l-hg_mjfiKqU0ntI"
+bot_token = ""
 
 chat_id = "219512885"
 
