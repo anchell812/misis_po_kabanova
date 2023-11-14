@@ -1,8 +1,9 @@
 import telebot
 import datetime
+import os
 
-
-bot = telebot.TeleBot('')
+token = os.environ["BOT_TOKEN"]
+bot = telebot.TeleBot(token)
 chat_id = 219512885
 
 
